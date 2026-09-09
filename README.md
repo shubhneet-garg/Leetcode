@@ -72,6 +72,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhneet-garg/Java-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhneet-garg/Java-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhneet-garg/Java-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Backtracking
 |  |

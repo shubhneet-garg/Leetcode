@@ -62,6 +62,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shubhneet-garg/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/shubhneet-garg/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shubhneet-garg/Java-DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/shubhneet-garg/Java-DSA/tree/master/0131-palindrome-partitioning) |
@@ -75,6 +76,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhneet-garg/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shubhneet-garg/Java-DSA/tree/master/0062-unique-paths) |
@@ -200,6 +202,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhneet-garg/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shubhneet-garg/Java-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0018-4sum) |
@@ -499,4 +502,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shubhneet-garg/Java-DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

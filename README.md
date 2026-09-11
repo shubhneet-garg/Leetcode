@@ -99,6 +99,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shubhneet-garg/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shubhneet-garg/Java-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhneet-garg/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
@@ -165,6 +166,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0260-single-number-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shubhneet-garg/Java-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
@@ -241,6 +243,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shubhneet-garg/Java-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shubhneet-garg/Java-DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -528,4 +531,8 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhneet-garg/Java-DSA/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

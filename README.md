@@ -56,6 +56,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0904-fruit-into-baskets](https://github.com/shubhneet-garg/Java-DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhneet-garg/Java-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -74,6 +75,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0438-find-all-anagrams-in-a-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhneet-garg/Java-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -110,6 +112,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0746-min-cost-climbing-stairs](https://github.com/shubhneet-garg/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shubhneet-garg/Java-DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhneet-garg/Java-DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shubhneet-garg/Java-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -189,6 +192,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhneet-garg/Java-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -238,6 +242,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/shubhneet-garg/Java-DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +265,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0368-largest-divisible-subset](https://github.com/shubhneet-garg/Java-DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/shubhneet-garg/Java-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
+| [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shubhneet-garg/Java-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/shubhneet-garg/Java-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer

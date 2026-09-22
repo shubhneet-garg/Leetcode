@@ -165,6 +165,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhneet-garg/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shubhneet-garg/Java-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shubhneet-garg/Java-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhneet-garg/Java-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -329,6 +330,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0063-unique-paths-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0144-binary-tree-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhneet-garg/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -478,6 +481,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhneet-garg/Java-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
@@ -563,6 +567,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |

@@ -197,6 +197,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shubhneet-garg/Java-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/shubhneet-garg/Java-DSA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shubhneet-garg/Java-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
@@ -331,6 +332,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0064-minimum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -487,6 +490,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/shubhneet-garg/Java-DSA/tree/master/1306-jump-game-iii) |
 ## DP on Trees
 |  |
@@ -569,6 +573,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |

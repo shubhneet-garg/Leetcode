@@ -108,6 +108,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0368-largest-divisible-subset](https://github.com/shubhneet-garg/Java-DSA/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shubhneet-garg/Java-DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/shubhneet-garg/Java-DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shubhneet-garg/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -183,6 +184,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0496-next-greater-element-i](https://github.com/shubhneet-garg/Java-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/shubhneet-garg/Java-DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shubhneet-garg/Java-DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/shubhneet-garg/Java-DSA/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/shubhneet-garg/Java-DSA/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shubhneet-garg/Java-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -332,6 +334,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0064-minimum-path-sum](https://github.com/shubhneet-garg/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/shubhneet-garg/Java-DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shubhneet-garg/Java-DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/shubhneet-garg/Java-DSA/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
@@ -487,6 +490,7 @@ Java solutions to Data Structures &amp; Algorithms problems with explanations an
 | [0200-number-of-islands](https://github.com/shubhneet-garg/Java-DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/shubhneet-garg/Java-DSA/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhneet-garg/Java-DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/shubhneet-garg/Java-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shubhneet-garg/Java-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhneet-garg/Java-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shubhneet-garg/Java-DSA/tree/master/0662-maximum-width-of-binary-tree) |
